@@ -81,7 +81,7 @@ class PotawatomiLemmatizer():
                 "prohibitive": prohibitive_ctx
             }
             
-            print(vii.stem(word, context))
+            return vii.stem(word, context)
             
             #print(is_conjunct)
             #return tokens[:int(foundIdx[0])+2]
