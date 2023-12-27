@@ -1,6 +1,6 @@
 from flask import Flask, jsonify
 from potnlp.normalizer.base import DataNormalizer
-from potnlp.transliterator.base import Transliterator, LWS_WNALP
+from potnlp.transliterator import Transliterator, LWS_WNALP
 from potnlp.tokenizer.potawatomi import PotawatomiTokenizer
 from potnlp.stem.base import PotawatomiLemmatizer
 
