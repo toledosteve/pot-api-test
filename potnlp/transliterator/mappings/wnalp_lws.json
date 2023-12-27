@@ -1,0 +1,17 @@
+{
+    "name": "wnalp_to_lws",
+    "description": "Wisconsin Native American Languages (WNALP) to Learners Writing System (LWS)",
+    "map": {
+        "é": "é",
+        "ch": "tth",
+        "j": "th"
+    },
+    "orthography_rules": [
+        ["nde(?! [nd]) ", "ndë "], 
+        ["(?<=[(zh)|n])e(?=w)", "ë"],
+        ["(?<=ew)e(?=k)", "ê"],
+        ["(?<=d)e(?=w)", "ë"],
+        ["(?<=th)e(?! *[nd])", "ë"],
+        ["gemek", "gëmëk"]
+    ]
+}

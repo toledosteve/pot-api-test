@@ -1,0 +1,30 @@
+{
+    "name": "hockett1948_to_wnalp",
+    "description": "1948 Hockett Orthography to WNALP",
+    "map": {
+        "a": "a",
+        "p": "b",
+        "č·": "ch",
+        "č": "j",
+        "t": "d",
+        "e": "é",
+        "u": "e",
+        "k": "g",
+        "ʔ": "'",
+        "i": "i",
+        "k·": "k",
+        "m": "m",
+        "n": "n",
+        "o": "o",
+        "p·": "p",
+        "s·": "s",
+        "s": "z",
+        "š·": "sh",
+        "š": "zh",
+        "t·": "t",
+        "w": "w",
+        "y": "y"
+    },
+    "orthography_rules": [
+    ]
+}

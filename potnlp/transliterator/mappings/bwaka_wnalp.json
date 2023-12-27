@@ -1,0 +1,32 @@
+{
+    "name": "bwaka_to_wnalp",
+    "description": "BWAKA (PBP) to WNALP",
+    "map": {
+        "a": "a",
+        "b": "b",
+        "c": "ch",
+        "d": "d",
+        "e": "e",
+        "e'": "é",
+        "g": "g",
+        "h": "h",
+        "i": "i",
+        "I": "e",
+        "j": "j",
+        "k": "k",
+        "m": "m",
+        "n": "n",
+        "o": "o",
+        "p": "p",
+        "s": "s",
+        "sh": "sh",
+        "t": "t",
+        "u": "e",
+        "w": "w",
+        "y": "y",
+        "z": "z",
+        "zh": "zh"
+    },
+    "orthography_rules": [
+    ]
+}

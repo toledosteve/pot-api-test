@@ -1,0 +1,24 @@
+{
+    "name": "traditional_to_wnalp",
+    "description": "Traditional Writing System to WNALP",
+    "map": {
+        "a": "a",
+        "l": "b",
+        "tth": "ch",
+        "t": "d",
+        "e": "e",
+        "k": "g",
+        "h": "h",
+        "i": "i",
+        "m": "m",
+        "n": "n",
+        "o": "o",
+        "s": "s",
+        "q": "kw",
+        "sh": "sh",
+        "w": "w",
+        "y": "y"
+    },
+    "orthography_rules": [
+    ]
+}

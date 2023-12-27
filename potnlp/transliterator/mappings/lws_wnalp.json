@@ -1,0 +1,38 @@
+{
+    "name": "lws_to_wnalp",
+    "description": "Learners Writing System (LWS) to Wisconsin Native American Languages (WNALP)",
+    "map": {
+        "a": "a",
+        "b": "b",
+        "tth": "ch",
+        "th": "j",
+        "d": "d",
+        "é": "é",
+        "ė": "é",
+        "ë": "e",
+        "ê": "e",
+        "e": "e",
+        "g": "g",
+        "h": "h",
+        "'": "'",
+        "i": "i",
+        "k": "k",
+        "m": "m",
+        "n": "n",
+        "o": "o",
+        "p": "p",
+        "s": "s",
+        "z": "z",
+        "sh": "sh",
+        "zh": "zh",
+        "t": "t",
+        "w": "w",
+        "y": "y"
+    },
+    "orthography_rules": [
+        ["\\b(ki) (?=)", "ggi "],
+        ["\\b(ki) (?=)", "gge "],
+        ["\\b(égi|éwi|é|ga|wa|da) ", "\\1 "],
+        ["\\b(ngi|nwi|nde|ggi|gwi|gde|wgi|wwi|wde|nge|gge|wge) ", "\\1 "]
+    ]
+}

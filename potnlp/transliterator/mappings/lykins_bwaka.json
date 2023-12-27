@@ -1,0 +1,25 @@
+{
+    "name": "lykins_to_bwaka",
+    "description": "Dr. Lykins Orthography to BWAKA (PBP)",
+    "map": {
+        "a": "a",
+        "r": "e'",
+        "e": "i",
+        "i": "I",
+        "o": "o",
+        "u": "u",
+        "w": "w",
+        "y": "ay",
+        "k": "k",
+        "m": "m",
+        "n": "n",
+        "p": "p",
+        "t": "t",
+        "q": "kw",
+        "h": "c",
+        "l": "sh",
+        "s": "s"
+    },
+    "orthography_rules": [
+    ]
+}
