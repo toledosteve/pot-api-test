@@ -6,7 +6,7 @@ from potnlp.stem.base import PotawatomiLemmatizer
 
 app = Flask(__name__)
 
-@app.route('/stem/vii/<string:message>/target/<string:word>', methods=['GET'])
+@app.route('/stem/<string:message>/target/<string:word>', methods=['GET'])
 def stem(message, word):
     normalizer = DataNormalizer()
     text = normalizer.normalize(text=message)
