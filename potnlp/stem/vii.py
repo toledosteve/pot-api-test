@@ -184,7 +184,7 @@ class InanimateIntransitive_Stemmer():
             word = word + 'n'    
         
         # Fix Augment and D Stem   
-        elif word.endswith('nm') or word.endswith('mge'):
+        elif word.endswith('me') or word.endswith('mge'):
             word = word + 't'
             
         # Check Participles
